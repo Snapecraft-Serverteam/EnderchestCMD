@@ -1,0 +1,9 @@
+name: EC_CMD
+version: 1.0.0
+author: Tallerik
+main: net.snapecraft.EC.Main
+commands:
+  ec:
+    description: open Enderchest
+  invsee:
+    description: open Inventory of Player
